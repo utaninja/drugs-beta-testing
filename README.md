@@ -1,5 +1,5 @@
 # TripSit Drugs Database GitHub Repository
-This repository serves as the database for TripSit’s Drug Factsheets and Drug Combination Chart.
+> **This repository serves as the database for TripSit’s Drug Factsheets and Drug Combination Chart**
 
 There are currently two main files for this database, "drugs.json" and "combos.json"
 * drugs.json is the file used by TripBot, Factsheets, along with related resources and tools
@@ -41,9 +41,9 @@ https://github.com/TripSit/drugs/wiki/Getting-Started-%7C-TripSit's-Combination-
 ### [Additional Project Discussions](https://github.com/TripSit/drugs/wiki/Additional-Discussions-%7C-TripSit's-Combination-Chart-Project)
 ### [Additional Project Research](https://github.com/TripSit/drugs/wiki/Additional-Research-%7C-TripSit's-Combination-Chart-Project)
 
-### Drugs Database
+## Drugs Database
 * drugs.json is a massive file containing all of our drug information used by our factsheets and more.
-* The database would benefit from revisions, sources, additions, modifications, and more. Feel free to contribute in any way to improve our database.
+  * The database would benefit from revisions, sources, additions, modifications, and more. Feel free to contribute in any way to improve our database.
 
 ## Development Information
 * We would greatly benefit from more developers, ranging from UX/UI design to backend server administration. To learn more, see our [development information wiki page](https://github.com/TripSit/drugs/wiki/Development-Information).
