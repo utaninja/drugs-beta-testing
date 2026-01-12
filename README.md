@@ -18,16 +18,12 @@ If you would like to contribute and are unfamiliar with GitHub, the easiest way 
 * As discussed in the aforementioned Research Document, four new drugs are being added to the combination chart. These are pregabalin, 4-MMC, lithium, and DPH. The majority of these interactions are in a "rough draft" or otherwise in a "peer review" stage. The best way to contribute to reviewing these interactions is through our Research Document.
 * Alternatively, you are welcome to create an issue with a peer review for any combination. 
 
-#### Conducting a Peer Review
+### Conducting a Peer Review
 https://github.com/TripSit/drugs/wiki/Getting-Started-%7C-TripSit's-Combination-Chart-Project#conducting-a-peer-review
 
 ### Alpha Stage Interactions
 * Interactions in the alpha stage are combinations that are not ready for peer review. These are interactions we’ve had difficulty concluding the interaction for and could use the most help with.
 * You can find these in our GitHub's discussion page: https://github.com/TripSit/drugs/discussions/categories/questions
-
-## Drugs Database
-* drugs.json is a massive file containing all of our drug information used by our factsheets and more.
-* The database would benefit from revisions, sources, additions, modifications, and more. Feel free to contribute in any way to improve our database.
 
 ### Contribution Criteria
 * We strive to provide as accurate information as possible. This includes providing explanations for modifications and sources to accompany these changes.
@@ -39,26 +35,25 @@ https://github.com/TripSit/drugs/wiki/Getting-Started-%7C-TripSit's-Combination-
   * books
   * credible harm reduction organizations
 
-## Drug Interaction Flag Definitions https://github.com/TripSit/drugs/wiki/Drug-Interaction-Flag-Definitions-%7C-TripSit's-Combination-Chart-Project
-## Interaction Template https://github.com/TripSit/drugs/wiki/Interaction-Template-%7C-TripSit's-Combination-Chart-Project
+### [Drug Interaction Flag Definitions](https://github.com/TripSit/drugs/wiki/Drug-Interaction-Flag-Definitions-%7C-TripSit's-Combination-Chart-Project)
+### [Interaction Template](https://github.com/TripSit/drugs/wiki/Interaction-Template-%7C-TripSit's-Combination-Chart-Project)
+### [Combination Chart Directory](https://github.com/TripSit/drugs/wiki/Directory-%7C-TripSit's-Combination-Chart-Project)
+### [Additional Project Discussions](https://github.com/TripSit/drugs/wiki/Additional-Discussions-%7C-TripSit's-Combination-Chart-Project)
+### [Additional Project Research](https://github.com/TripSit/drugs/wiki/Additional-Research-%7C-TripSit's-Combination-Chart-Project)
 
-### Combination Chart Directory https://github.com/TripSit/drugs/wiki/Directory-%7C-TripSit's-Combination-Chart-Project
-
-### Additional Discussions https://github.com/TripSit/drugs/wiki/Additional-Discussions-%7C-TripSit's-Combination-Chart-Project
-
-### Additional Research https://github.com/TripSit/drugs/wiki/Additional-Research-%7C-TripSit's-Combination-Chart-Project
+### Drugs Database
+* drugs.json is a massive file containing all of our drug information used by our factsheets and more.
+* The database would benefit from revisions, sources, additions, modifications, and more. Feel free to contribute in any way to improve our database.
 
 ## Development Information
-* We would greatly benefit from more developers, ranging from UX/UI design to backend server administration. To learn more see our development information. https://github.com/TripSit/drugs/wiki/Development-Information
+* We would greatly benefit from more developers, ranging from UX/UI design to backend server administration. To learn more, see our [development information wiki page](https://github.com/TripSit/drugs/wiki/Development-Information).
 
 ## Discord
-If you're not sure about something, or you want to discuss a change, you can talk to us on Discord: https://discord.gg/tripsit 
-
-Join the [#content](https://discord.com/channels/179641883222474752/946833118269145109) channel!
-* Remember to select the Content Crew role in role selections!
-
-You can also join the [#combo-chart](https://discord.com/channels/179641883222474752/1168216953924624464) channel!
-* Don't forget to check pinned messages and join the Combo Crew role!
+* If you're not sure about something, or you want to discuss a change, you can talk to us on [Discord](https://discord.gg/tripsit)!
+* Join the [#content](https://discord.com/channels/179641883222474752/946833118269145109) channel!
+  * Remember to select the Content Crew role in role selections!
+* You can also join the [#combo-chart](https://discord.com/channels/179641883222474752/1168216953924624464) channel!
+  * Don't forget to check pinned messages and join the Combo Crew role!
 
 
 
